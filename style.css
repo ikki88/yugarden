@@ -1,0 +1,378 @@
+.sand {
+	background-color:#c3b091;
+	width:100vW;
+	height:15vh;
+	position:absolute;
+	left:0;
+	bottom:0;
+}
+.grass {
+	background-color:#6aa121;
+	width:100vw;
+	height:90vh;
+	position:absolute;
+	left:0;
+	top:0;
+	z-index:-1;
+}
+.tree {
+  width: 32vw;
+  height: 32vw;
+  border-radius: 50%;
+  background-color: #7C4F3C;
+  position: absolute;
+  left: 18vw;
+  top:17vh ;
+  font-size: 60px;
+
+}
+.goldflower {
+	width:15vw;
+	height:15vw;
+	border-radius:50%;
+	background: linear-gradient(180deg, #FD62B5, #FAA7D3);
+	position:absolute;
+	left: 45vw;
+	top: 1vh;
+	font-size: 40px;
+}
+article {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.tag {
+	width: 5vw;
+	height: 5vw;
+	background-color:#4D68D4;
+	position: absolute;
+	top:7vh ;
+	left: 38vw;
+	font-size:20px;
+}
+.leaf {
+	width: 10vw;
+	height: 10vw;
+	border-radius:50%;
+	background-color:#BEF607 ;
+	position: absolute;
+	left: 40vw;
+	bottom: 16vh;
+	font-size:35px;
+
+}
+.mindeulle1 {
+	width: 7vw;
+	height: 7vw;
+	border-radius:50%;
+	background: linear-gradient(180deg,#F5A329, #FDD122);
+	position: absolute;
+	left:31vw ;
+	bottom:1vh;
+	font-size: 30px;
+}
+.mindeulle2 {
+	width: 7vw;
+	height: 7vw;
+	border-radius:50%;
+	background: linear-gradient(180deg,#F5A329, #FDD122);
+	position: absolute;
+	left:7vw ;
+	bottom:10vh;
+}
+.mindeulle3 {
+	width: 7vw;
+	height: 7vw;
+	border-radius:50%;
+	background: linear-gradient(180deg,#F5A329, #FDD122);
+	position: absolute;
+	right:25vw ;
+	bottom:35vh;
+}
+.mindeulle4 {
+	width: 7vw;
+	height: 7vw;
+	border-radius:50%;
+	background: linear-gradient(180deg,#F5A329, #FDD122);
+	position: absolute;
+	left:53vw ;
+	bottom:20vh;
+
+}
+.mindeulle5 {
+	width: 7vw;
+	height: 7vw;
+	border-radius:50%;
+	background: linear-gradient(180deg,#F5A329, #FDD122);
+	position: absolute;
+	right:25vw ;
+	bottom:10vh;
+
+}
+.needle {
+	width: 5vw;
+	height: 5vw;
+	background-color:#27CA3D;
+	position: absolute;
+	left: 54vw;
+	bottom: 40vh;
+	font-size:20px;
+}
+.rake1 {
+	width: 4vw;
+	height: 4vw;
+	background-color:#9BF92F;
+	position: absolute;
+	left:17vw;
+	bottom:16vh;
+}
+.rake2 {
+	width: 4vw;
+	height: 4vw;
+	background-color:#9BF92F;
+	position: absolute;
+	left: 50vw;
+	bottom: 9vh;
+}
+.skyflower{
+	background: linear-gradient(180deg,#16A3CE, #2ADAEE); 
+	width:5vw;
+	height: 6vh;
+	position: absolute; 
+	left: 37vw;
+	bottom: 10vh;}
+
+	.rock {
+	width: 5vw;
+	height: 6vh;
+	background-color:#BEC0A9;
+	position: absolute;
+	left:10vw;
+	bottom:30vh;
+	z-index:1;
+	border-radius:50%;
+	font-size:20px;
+}
+.namul {
+	position: absolute;
+	left: 4vw;
+	top: 13vh;
+	font-size: 30px;
+}
+h1 {
+	position: absolute;
+	right:3vw;
+	height:35vh;
+	width:2vw;
+}
+.ant {
+	width: 30px;
+	height: 23px;
+	border-radius:50%;
+	background-color:#333734;
+	position: absolute;
+	left: 270px;
+	bottom: 45px;
+	
+}
+.anthead {
+	background-color:#333734 ;
+	width: 15px;
+	height:15px;
+	border-radius:50%;
+	position: absolute;
+	left: 263px;
+	bottom: 49px;
+}
+.ant2 {
+	width: 30px;
+	height: 23px;
+	border-radius:50%;
+	background-color:#333734;
+	position: absolute;
+	position: absolute;
+	right:510px;
+	top:210px;
+	}
+.anthead2 {
+	background-color:#333734 ;
+	width: 15px;
+	height:15px;
+	border-radius:50%;
+	position: absolute;
+	right:504px;
+	top: 214px;
+}
+.l3 {
+	color:#333734 ;
+	position: absolute;
+	right:510px;
+	top: 205px;}
+.l4 {
+	color:#333734 ;
+	position: absolute;
+	right:505px;
+	top: 205px;
+}
+
+}
+.minirock {
+	background-color:#92826A;
+	width: 1vw;
+	height:1vw;
+	border-radius:50%;
+	position: absolute;
+	right:43vw;
+	bottom: 2vh;
+}
+.minirock2 {
+	background-color:#92826A;
+	width: 0.7vw;
+	height:0.7vw;
+	border-radius:50%;
+	position: absolute;
+	right:41vw;
+	bottom: 5vh;
+
+}
+.minirock3 {
+	background-color:#92826A;
+	width: 0.7vw;
+	height:0.7vw;
+	border-radius:50%;
+	position: absolute;
+	left:40vw;
+	bottom: 5vh;
+}
+
+.minirock4 {
+	background-color:#92826A;
+	width: 0.7vw;
+	height:0.7vw;
+	border-radius:50%;
+	position: absolute;
+	right:25vw;
+	bottom: 9vh;
+}
+.minirock5 {
+	background-color:#92826A;
+	width: 1vw;
+	height:1vw;
+	border-radius:50%;
+	position: absolute;
+	right:9vw;
+	bottom: 7vh;
+}
+.minirock6 {
+	background-color:#92826A;
+	width: 1vw;
+	height:1vw;
+	border-radius:50%;
+	position: absolute;
+	left:9vw;
+	bottom: 7vh;
+}
+.l {
+	position: absolute;
+	left:265px;
+	bottom: 54px;
+	color:#333734 ;
+}
+.l2 {
+	position: absolute;
+	left:271px;
+	bottom: 54px;
+	color:#333734 ;
+}
+.triangle {
+  border-bottom: 50px solid #0B5B08; 
+  border-left: 20px solid transparent; 
+  border-right: 20px solid transparent; 
+  position: absolute;
+  left: 190px;
+  top:260px;
+  
+}
+.triangle2{
+  border-bottom: 50px solid #0B5B08;  
+  border-left: 20px solid transparent; 
+  border-right: 20px solid transparent; 
+  position: absolute;
+  left: 140px;
+  top: 260px;
+}
+.triangle3 {
+	border-bottom: 50px solid #0B5B08 ;  
+  border-left: 20px solid transparent; 
+  border-right: 20px solid transparent; 
+  position: absolute;
+  left:165px;
+  top:260px;
+}
+.triangle4 {
+	border-bottom: 50px solid #0B5B08;  
+  border-left: 20px solid transparent; 
+  border-right: 20px solid transparent; 
+  position: absolute;
+  right:275px;
+  top:150px;
+}
+.triangle5 {
+	border-bottom: 50px solid #0B5B08;  
+  border-left: 20px solid transparent; 
+  border-right: 20px solid transparent; 
+  position: absolute;
+  right:250px;
+  top:150px;
+}
+.triangle6 {
+	border-bottom: 50px solid #0B5B08;  
+  border-left: 20px solid transparent; 
+  border-right: 20px solid transparent; 
+  position: absolute;
+  right:225px;
+  top:150px;
+}
+.triangle7 {
+	border-bottom: 50px solid #0B5B08;  
+  border-left: 20px solid transparent; 
+  border-right: 20px solid transparent; 
+  position: absolute;
+  right:225px;
+  bottom:100px;
+}
+.triangle8 {
+	border-bottom: 50px solid #0B5B08;  
+  border-left: 20px solid transparent; 
+  border-right: 20px solid transparent; 
+  position: absolute;
+  right:200px;
+  bottom:100px;
+}
+.triangle9 {
+	border-bottom: 50px solid #0B5B08;  
+  border-left: 20px solid transparent; 
+  border-right: 20px solid transparent; 
+  position: absolute;
+  right:175px;
+  bottom:100px;
+}
+ 
+.yellow {
+	font-size:30px;
+}
+
+.caution {
+	position: absolute;
+  right:1vw;
+  bottom:1vh;
+  color:#B62B15;
+  font-size:30px;
+}
+.realsand {
+	font-size:30px;
+	position: absolute;
+	right:50vw;
+	bottom:5vh;
+}
